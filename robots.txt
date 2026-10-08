@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Local review version. Configure the approved public origin before publication.
